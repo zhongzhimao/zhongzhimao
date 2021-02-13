@@ -1,2 +1,8 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhongzhimao)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhongzhimao&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhongzhimao&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhongzhimao&show_icons=true&theme=radical)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zhongzhimao&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhongzhimao)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhongzhimao&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zhongzhimao)](https://github.com/anuraghazra/github-readme-stats)
