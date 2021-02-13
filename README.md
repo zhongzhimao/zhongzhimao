@@ -1,7 +1,5 @@
 # 🥳 𝗛𝗲𝗹𝗹𝗼! 𝗜'𝗺 zhongzhimao ٩(๑>◡<๑)۶
 
-[![](https://img.shields.io/badge/-@Libra11-%23181717?style=flat-square&logo=github)](https://github.com/zhongzhimao)
-
 🏖 前端和移动端开发者
 
 - 热衷于新奇的事物 🤩 热爱思考
