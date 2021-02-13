@@ -15,18 +15,12 @@
 
 ---
 
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
-
 ## Contact me
 
 ```text
 email: 2624707049@qq.com
 QQ: 2624707049
-CSDN: 听说你很会玩 <a href="https://github.com/zhongzhimao">1231</a>　
+CSDN: 听说你很会玩
 ```
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
