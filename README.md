@@ -22,6 +22,7 @@ email: 2624707049@qq.com
 QQ: 2624707049
 CSDN: 听说你很会玩
 微信公众号：杰灵软件
+[360极速浏览器](https://browser.360.cn/ee/)
 官网： [杰灵软件研发工作室](https://www.zhongzhimao.com)
 ```
 
